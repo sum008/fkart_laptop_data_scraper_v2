@@ -6,4 +6,4 @@ To use this project, you need to create account on seatable and generate you acc
 
 After generating your token, place that token in token.config.dist and update the name of this file to token.config
 
-\*This project is in development phase\*
+**This project is in development phase**
