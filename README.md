@@ -5,3 +5,5 @@ For this project I have used the free-tier seatable with provides 2GB of data st
 To use this project, you need to create account on seatable and generate you access token. Use this for reference : https://api.seatable.io/reference/introduction
 
 After generating your token, place that token in token.config.dist and update the name of this file to token.config
+
+\*\*This project is in development phase\*\*
